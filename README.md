@@ -1,4 +1,5 @@
 # bear-website
+<!DOCTYPE html> 
 <html>
 
 <head>
