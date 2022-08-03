@@ -1,4 +1,5 @@
 # bear-website
+<!DOCTYPE html>
 <body>
   <h1>The Brown Bear</h1>
   <div id="introduction">
