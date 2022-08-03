@@ -1,5 +1,6 @@
 # bear-website
 <!DOCTYPE html>
+<html>
 <body>
   <h1>The Brown Bear</h1>
   <div id="introduction">
@@ -32,3 +33,4 @@
     <video src="https://content.codecademy.com/courses/freelance-1/unit-1/lesson-2/htmlcss1-vid_brown-bear.mp4" width="320" height="240" controls> Video not supported</video>
   </div>
 </body>
+</html>
